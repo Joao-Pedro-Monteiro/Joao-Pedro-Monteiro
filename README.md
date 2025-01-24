@@ -28,7 +28,7 @@ Aprofundar meus conhecimentos em investimentos, especialmente FIIs e ações, pa
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-monteiro-994345342)
 
-[[](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[.[](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 <br>profissional / pessoal
 <br>mtr.sites@gmail.com / jaumpredo8068@gmail.com
 
