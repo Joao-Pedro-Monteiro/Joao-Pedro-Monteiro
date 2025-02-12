@@ -37,14 +37,6 @@ Aprofundar meus conhecimentos em investimentos, especialmente FIIs e ações, pa
 Estou sempre em busca de novos desafios e adoro trabalhar em projetos que fazem a diferença.
 Acredito que a simplicidade no design é fundamental para uma experiência de usuário incrível.
 Minha abordagem para a vida? "Não se trata do que se sabe, mas sim do que se pode provar"
-<br><br><br>
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaunzin.mtr/)
-
-
-
-![](https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif)
-
-
 <!--  Lita de ícones para o GitHub:
       https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
