@@ -9,9 +9,9 @@ Olá! Sou um desenvolvedor front-end júnior apaixonado por tecnologia e inovaç
 
 <br>⚙️ Tecnologias que utilizo
 -
-Front-end: HTML, CSS, JavaScript
-Back-end: PHP
-Ferramentas: Git/GitHub, WordPress (WooCommerce), Figma
+Front-end: HTML, CSS, JavaScript<br>
+Back-end: PHP<br>
+Ferramentas: Git/GitHub, WordPress (WooCommerce), Figma<br>
 Em estudo: Desenvolvimento de dashboards, lógica digital e microcontroladores
 
 <br>📈 Objetivos atuais
