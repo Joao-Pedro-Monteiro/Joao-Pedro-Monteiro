@@ -4,8 +4,8 @@ Olá! Sou um desenvolvedor front-end júnior apaixonado por tecnologia e inovaç
 
 <br>💡 O que estou fazendo agora?
 -
-* Construindo o Projeto Nimbus, uma plataforma web para facilitar a vida de agricultores e engenheiros-agrônomos. 🌾
-* Expandindo meus conhecimentos em WooCommerce, de olho no mercado de e-commerce em crescimento.
+* Construindo o Projeto Nexo, uma aplicação desktop para gerenciar contatos de forma centralizada e eficiente.\
+Veja mais sobre o *Nexo* [clicando aqui](https://github.com/GelinGLN/Nexo)
 
 <br>⚙️ Tecnologias que utilizo
 -
@@ -17,8 +17,7 @@ Em estudo: Desenvolvimento de dashboards, lógica digital e microcontroladores
 <br>📈 Objetivos atuais
 -
 Melhorar minhas habilidades em JavaScript e PHP, implementando soluções eficientes e escaláveis.
-Criar uma presença sólida no mundo da tecnologia, conciliando trabalho, estudos e projetos pessoais.
-Aprofundar meus conhecimentos em investimentos, especialmente FIIs e ações, para construir um futuro financeiro sólido. 📊
+Criar uma presença sólida no mundo da tecnologia, conciliando trabalho, estudos e projetos pessoais. 📊
 
 <br>📫Como me encontrar:
 -
@@ -28,15 +27,15 @@ Aprofundar meus conhecimentos em investimentos, especialmente FIIs e ações, pa
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-monteiro-994345342)
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-<br>Profissional: mtr.sites@gmail.com
-<br>Pessoal: jaumpredo8068@gmail.com
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()\
+Profissional: mtr.sites@gmail.com\
+Pessoal: jaumpredo8068@gmail.com
 
-<br>📜 Curiosidades sobre mim
+<br>📜 Curiosidades
 -
-Estou sempre em busca de novos desafios e adoro trabalhar em projetos que fazem a diferença.
-Acredito que a simplicidade no design é fundamental para uma experiência de usuário incrível.
-Minha abordagem para a vida? "Não se trata do que se sabe, mas sim do que se pode provar"
+* Estou buscando novos desafios e gosto trabalhar em projetos escaláveis de todos os nichos e tamanhos.
+* Acredito que a simplicidade no design é fundamental para uma experiência de usuário incrível.
+* Minha abordagem para a vida? "Não se trata do que se sabe, mas sim do que se pode provar"
 <!--  Lita de ícones para o GitHub:
       https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
