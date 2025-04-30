@@ -1,41 +1,60 @@
-🧑‍💻 Sobre mim
--
-Olá! Sou um desenvolvedor front-end júnior apaixonado por tecnologia e inovação. Atualmente, estou focado em projetos web, explorando as melhores práticas de desenvolvimento e buscando sempre aprimorar minhas habilidades. 🚀
+# 👋 João Pedro Monteiro
+### Desenvolvedor Front-end Júnior
 
-<br>💡 O que estou fazendo agora?
--
-* Construindo o Projeto Nexo, uma aplicação desktop para gerenciar contatos de forma centralizada e eficiente.\
-Veja mais sobre o *Nexo* [clicando aqui](https://github.com/GelinGLN/Nexo)
+## 💡 Sobre Mim
 
-<br>⚙️ Tecnologias que utilizo
--
-Front-end: HTML, CSS, JavaScript<br>
-Back-end: PHP<br>
-Ferramentas: Git/GitHub, WordPress (WooCommerce), Figma<br>
-Em estudo: Desenvolvimento de dashboards, lógica digital e microcontroladores
+Desenvolvedor web apaixonado por criar experiências digitais intuitivas e impactantes. Focado em soluções web modernas, busco constantemente aprimorar minhas habilidades técnicas e aplicar as melhores práticas de desenvolvimento.
 
-<br>📈 Objetivos atuais
--
-Melhorar minhas habilidades em JavaScript e PHP, implementando soluções eficientes e escaláveis.
-Criar uma presença sólida no mundo da tecnologia, conciliando trabalho, estudos e projetos pessoais. 📊
+> *"Não se trata do que se sabe, mas sim do que se pode provar"*
 
-<br>📫Como me encontrar:
--
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5544999090895&text&type=phone_number&app_absent=0)
+## 🛠️ Stack Tecnológica
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaunzin.mtr/)
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-monteiro-994345342)
+### Back-end
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()\
-Profissional: mtr.sites@gmail.com\
-Pessoal: jaumpredo8068@gmail.com
+### Ferramentas & Ambiente
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>📜 Curiosidades
--
-* Estou buscando novos desafios e gosto trabalhar em projetos escaláveis de todos os nichos e tamanhos.
-* Acredito que a simplicidade no design é fundamental para uma experiência de usuário incrível.
-* Minha abordagem para a vida? "Não se trata do que se sabe, mas sim do que se pode provar"
-<!--  Lita de ícones para o GitHub:
-      https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
+### Explorando
+- Desenvolvimento de dashboards interativos
+- Lógica digital
+- Microcontroladores
+- Soluções escaláveis
+
+## 🚀 Objetivos Atuais
+
+- Dominar JavaScript avançado para criar interfaces dinâmicas e responsivas
+- Aprofundar conhecimentos em PHP para desenvolvimento back-end robusto
+- Expandir portfólio com projetos full-stack demonstrando soluções práticas
+- Estabelecer presença digital consistente na comunidade tech
+
+## 📮 Contato
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5544999090895&text&type=phone_number&app_absent=0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaunzin.mtr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-monteiro-994345342)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtr.sites@gmail.com)
+
+**E-mail Profissional:** mtr.sites@gmail.com  
+**E-mail Pessoal:** jaumpredo8068@gmail.com
+
+## 💼 Diferenciais
+
+- Foco em design intuitivo e experiências de usuário excepcionais
+- Compromisso com código limpo e bem documentado
+- Adaptabilidade para trabalhar em diversos nichos e projetos
+- Habilidade para balancear aspectos técnicos e criativos
+- Sempre aberto a novos desafios e oportunidades de crescimento
+
+---
+
+*Disponível para projetos freelance e oportunidades de colaboração*
