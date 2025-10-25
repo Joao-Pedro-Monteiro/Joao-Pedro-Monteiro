@@ -42,9 +42,9 @@ Desenvolvedor web apaixonado por criar experiências digitais intuitivas e impac
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5544999090895&text&type=phone_number&app_absent=0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaunzin.mtr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-monteiro-994345342)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtr.sites@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaomonteiro.mtr@gmail.com)
 
-**E-mail Profissional:** mtr.sites@gmail.com  
+**E-mail Profissional:** joaomonteiro.mtr@gmail.com  
 **E-mail Pessoal:** jaumpredo8068@gmail.com
 
 ## 💼 Diferenciais
