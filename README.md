@@ -17,6 +17,7 @@ Desenvolvedor web apaixonado por criar experiências digitais intuitivas e impac
 ### Back-end
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Ferramentas & Ambiente
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,7 +55,3 @@ Desenvolvedor web apaixonado por criar experiências digitais intuitivas e impac
 - Adaptabilidade para trabalhar em diversos nichos e projetos
 - Habilidade para balancear aspectos técnicos e criativos
 - Sempre aberto a novos desafios e oportunidades de crescimento
-
----
-
-*Disponível para projetos freelance e oportunidades de colaboração*
