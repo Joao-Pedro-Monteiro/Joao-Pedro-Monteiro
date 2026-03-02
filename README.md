@@ -1,5 +1,5 @@
 # 👋 João Pedro Monteiro
-### Desenvolvedor Front-end Júnior
+### Desenvolvedor Back-end Júnior
 
 ## 💡 Sobre Mim
 
